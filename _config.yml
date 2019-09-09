@@ -1,6 +1,6 @@
 name: Johannes Meier
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-tactile
 
 permalink: /blog/:year/:month/:day/:title
 
