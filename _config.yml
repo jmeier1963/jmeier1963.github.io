@@ -2,3 +2,9 @@ name: Johannes Meier
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
